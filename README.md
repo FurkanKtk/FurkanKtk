@@ -1,8 +1,10 @@
 ### Merhabalar, ben Furkan (Hi there,I'm Furkan). 👋
-### 👨‍💻 Şu anda JAVA kodları yazıyorum.                               
+### 👨‍💻 JAVA öğreniyorum (I'm learning JAVA). 
+ Yönetim bilişim sistemleri 3.sınıf öğrencisiyim (I am a 3rd grade student in management information systems).
 
-    (I am currently writing JAVA codes).
-📫 Bana bu mailden ulaşabilirsiniz (How to reach me:): kutukfurkan@outlook.com
+📫 Bana bu mailden ulaşabilirsiniz  (How to reach me:):                 
+                      
+   kutukfurkan@outlook.com
    
 
 
