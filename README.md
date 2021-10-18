@@ -1,6 +1,6 @@
 ### Merhabalar, ben Furkan (Hi there,I'm Furkan). 👋
 ### 👨‍💻 JAVA öğreniyorum (I'm learning JAVA). 
- Yönetim bilişim sistemleri 3.sınıf öğrencisiyim (I am a 3rd grade student in management information systems).
+ Yönetim bilişim sistemleri 4.sınıf öğrencisiyim (I am a 3rd grade student in management information systems).
 
 📫         
    kutukfurkan@outlook.com
