@@ -2,8 +2,7 @@
 ### 👨‍💻 JAVA öğreniyorum (I'm learning JAVA). 
  Yönetim bilişim sistemleri 3.sınıf öğrencisiyim (I am a 3rd grade student in management information systems).
 
-📫 Bana bu mailden ulaşabilirsiniz  (How to reach me:):                 
-                      
+📫         
    kutukfurkan@outlook.com
    
 
